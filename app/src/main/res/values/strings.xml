@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Mini Golf</string>
+    <string name="fb_app_id">643085259383213</string>
+    <string name="facebook_app_id">643085259383213</string>
+    <string name="fb_login_protocol_scheme">fb643085259383213</string>
+    <string name="version_info">Version 2.5.2</string>
+    <string name="copyright">Copyright 2015 wddonilne</string>
+</resources>
